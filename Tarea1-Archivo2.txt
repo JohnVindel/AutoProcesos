@@ -1,2 +1,8 @@
 2. Describa el significado de repositorio.
 Almacén o lugar donde se guardan ciertas cosas.
+
+3. Aparte de GitHub, Qué otras aplicaciones en la nube utilizamos para subir nuestros repositorios?
+Google Drive
+DropBox
+OneDrive
+Mega.
